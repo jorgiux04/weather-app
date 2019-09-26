@@ -20,7 +20,7 @@ class WeatherLocation extends Component {
         this.handleUpdateClick();
     }
     componentDidUpdate(prevProps, prevState) {
-        console.log("componentDidUpdate PRUEBA1");
+        console.log("componentDidUpdate PRUEBA");
     }
     
 
